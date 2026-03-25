@@ -8,12 +8,6 @@ import { Platform } from "react-native";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC3vOVLYDydAbXqJENCyKuHiUbdBjsxpcQ",
-  authDomain: "expo-firebase1-a5071.firebaseapp.com",
-  projectId: "expo-firebase1-a5071",
-  storageBucket: "expo-firebase1-a5071.firebasestorage.app",
-  messagingSenderId: "652611285071",
-  appId: "1:652611285071:web:1c3d68b94995ef4a373a3a",
 };
 
 // Initialize Firebase
